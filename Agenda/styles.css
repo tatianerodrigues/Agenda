@@ -1,0 +1,31 @@
+.container{
+	margin-top: 12px;
+	margin-left: 20px;
+	margin-right: 0px;
+}
+#btnSave{
+  left:40%;
+  position: absolute;
+}
+
+h1{
+text-align: center;}
+
+.col-md-6{
+	margin-bottom: 7%;
+	position: relative;
+}
+
+table{
+	text-align: center;
+}
+
+#action{
+	font-size: 14px;
+	color: #696969;
+}
+
+.colorUpdate{
+	background-color: #B0E2FF;
+}
+
